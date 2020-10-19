@@ -1,5 +1,6 @@
 Hello world!
 Привет мир!
+New string
 +
-khk
+khk hbkb
 
