@@ -1,0 +1,24 @@
+.header{
+    background-color: #ccc;
+    min-height: 150px;
+    }
+.clearfix:after {
+content: '';
+width: 100%;
+display: table;
+height: 0;
+clear: both;
+}
+
+.container {
+max-width: 1140px;
+margin: 0 auto;
+}
+
+.logo{
+float: left;
+}
+
+.logo-img{
+width: 150px;
+}
